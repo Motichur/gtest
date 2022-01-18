@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kunal/Projects/mul/mult_tests.cpp
+multiply.cpp
+/home/kunal/Projects/mul/multiply.cpp
+gtest/gtest.h
+-
+
+/home/kunal/Projects/mul/multiply.cpp
+

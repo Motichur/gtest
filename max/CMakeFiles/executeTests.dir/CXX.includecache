@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kunal/Projects/max/max_tests.cpp
+maximum.cpp
+/home/kunal/Projects/max/maximum.cpp
+gtest/gtest.h
+-
+
+/home/kunal/Projects/max/maximum.cpp
+

@@ -1,0 +1,3 @@
+/home/kunal/Projects/Array/max/CMakeFiles/rebuild_cache.dir
+/home/kunal/Projects/Array/max/CMakeFiles/edit_cache.dir
+/home/kunal/Projects/Array/max/CMakeFiles/executeTests.dir

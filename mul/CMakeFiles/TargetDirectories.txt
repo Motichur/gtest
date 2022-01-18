@@ -1,0 +1,3 @@
+/home/kunal/Projects/mul/CMakeFiles/rebuild_cache.dir
+/home/kunal/Projects/mul/CMakeFiles/edit_cache.dir
+/home/kunal/Projects/mul/CMakeFiles/runTests.dir
