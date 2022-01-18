@@ -1,0 +1,3 @@
+/home/kunal/Desktop/gtest/CMakeFiles/rebuild_cache.dir
+/home/kunal/Desktop/gtest/CMakeFiles/edit_cache.dir
+/home/kunal/Desktop/gtest/CMakeFiles/executeTests.dir
